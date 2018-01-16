@@ -1,0 +1,9 @@
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\bin\Debug\Get Unique Value from Listbox.exe.config
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\bin\Debug\Get Unique Value from Listbox.exe
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\bin\Debug\Get Unique Value from Listbox.pdb
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get Unique Value from Listbox.csprojResolveAssemblyReference.cache
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get_Unique_Value_from_Listbox.Form1.resources
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get_Unique_Value_from_Listbox.Properties.Resources.resources
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get Unique Value from Listbox.csproj.GenerateResource.Cache
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get Unique Value from Listbox.exe
+D:\125. IT CENTER CODE\2. CSharp\Get Unique Value from Listbox\Get Unique Value from Listbox\obj\Debug\Get Unique Value from Listbox.pdb
