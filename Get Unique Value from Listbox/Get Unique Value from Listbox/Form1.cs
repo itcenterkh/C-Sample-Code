@@ -39,13 +39,27 @@ namespace Get_Unique_Value_from_Listbox
                     int test = 0;
                     for(int j=0; j<listBox2.Items.Count; j++)
                     {
-                        if (listBox1.Items[i].ToString().Equals(listBox2.Items[j].ToString()))
+                        string[] val = listBox2.Items[j].ToString().Split(',');
+                        //convert value in listbox2 into 2 parts of array.   val[0]  and val[1]
+
+                        if (listBox1.Items[i].ToString().Equals(val[0]))
                         {
-                            test = 1;
+                            test = j;
+                            //Keep the found index in test
                         }
                     }
 
-                    if (test == 0) listBox2.Items.Add(listBox1.Items[i].ToString());
+                    if (test == 0)
+                    {
+                        listBox2.Items.Add(listBox1.Items[i].ToString() + ",1");
+                        // Frequency value start from 1
+                    }
+                    else
+                    {
+                        string[] val = listBox2.Items[test].ToString().Split(',');
+                        listBox2.Items[test] = val[0] + "," + (Int32.Parse(val[1]) + 1);
+                        //update number of found
+                    }
                 }
             }
         }
